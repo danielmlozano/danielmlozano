@@ -6,5 +6,4 @@ Nowadays, I'm a fullstack engineer, working particularly with PHP, Python, Javas
 
 I'm a natural curious person. I try to learn something new every day.
 
-Currently, I work as Principal Engineer in a Digital Agency, but the fact that I co-founded the agency, forced me to learn about marketing, sales, negotiation and management on multidisciplary teams
-
+Currently, I work as Principal Engineer in a Digital Agency.
