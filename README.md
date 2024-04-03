@@ -6,4 +6,4 @@ Nowadays, I'm a fullstack engineer, working particularly with PHP, Python, Javas
 
 I'm a natural curious person. I try to learn something new every day.
 
-Currently, I work at [Delicious Brains](https://deliciousbrains.com) building [SpinupWP](https://spinupwp.com/)
+Currently, I work as a contractor for different companies.
