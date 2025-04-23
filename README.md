@@ -1,9 +1,31 @@
-👋 Hi, I’m @danielmlozano
+# Hi, I’m Daniel Mendoza Lozano
 
-I'm a software engineer wirh 10+ years of experience. I started writing HTML and Visual Basic 6.0 when I was 14 years old.
+I'm a fullstack engineer with over 10 years of experience building real software for real people.
 
-Nowadays, I'm a fullstack engineer, working particularly with PHP, Python, Javascript/Typescript and frameworks/libraries such as Laravel, Django, Vue, React and Node.js.
+I started coding at 14 with HTML and Visual Basic 6.0, and I’ve been hooked ever since.
 
-I'm a natural curious person. I try to learn something new every day.
+Today, I work mostly with:  
+- **Languages**: PHP, Python, JavaScript/TypeScript  
+- **Frameworks**: Laravel, Django, Node.js, Vue, React  
+- **Stack**: Fullstack – from backend architecture to frontend interfaces
 
-Currently, I work as a contractor for different companies.
+## What I do
+
+- **For founders & makers**: I help launch SaaS ideas without overengineering. From MVPs to scale-up.  
+- **For companies**: I build and maintain solid, scalable applications as a reliable contractor.  
+- **For devs**: I write content to help others get better – from code challenges to productivity tips.
+
+## My Writing
+
+I share practical tips for devs and indie hackers:
+- [How to become a web developer (and not die trying)](https://danielmlozano.dev/how-to-become-a-web-developer/)
+- [Laravel Date Filters – Clean and Modern](https://danielmlozano.dev/new-and-nice-where-clauses-for-dates-in-laravel/)
+- [Sparse Arrays – HackerRank solution (JS)](https://danielmlozano.dev/hackerrank-sparse-arrays-solution/)
+- [How to answer “What do you do?” like a pro](https://medium.com/@danielmlozano/how-to-answer-what-do-you-do-b5eb9ebac6d6)
+- [Working from home without dying in the attempt](https://medium.com/@danielmlozano/home-office-working-from-home-without-dying-in-the-attempt-859004ac4bec)
+
+## Let’s Connect
+
+- **X / Twitter**: [@danielmlozano](https://x.com/danielmlozano)  
+- **LinkedIn**: [linkedin.com/in/danielmlozano](https://linkedin.com/in/danielmlozano)  
+- **Portfolio & Blog**: [danielmlozano.dev](https://danielmlozano.dev)
